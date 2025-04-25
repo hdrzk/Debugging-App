@@ -29,7 +29,10 @@ Melalui aplikasi ini, pengguna dapat:
 
 ## 📸 Screenshot
 
-### 🖼️ Halaman Input
+### 🖼️ Halaman Pertama
+![Input Screenshot](path/to/input_screenshot.png)
+
+### 🖼️ Halaman Kedua
 ![Input Screenshot](path/to/input_screenshot.png)
 
 ### 🖥️ Tampilan Logcat
