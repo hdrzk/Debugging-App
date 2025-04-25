@@ -17,7 +17,7 @@ Melalui aplikasi ini, pengguna dapat:
 
 ## 🎯 Fitur Utama
 - 🔹 **Toast Message**: Menampilkan pesan sambutan berdasarkan input.
-- 🔹 **Log Debugging**: Mencatat input user menggunakan `Log.v` dengan tag `cekString`.
+- 🔹 **Log Debugging**: Mencatat input user menggunakan `Log.v` dengan tag `check`.
 ---
 
 ## 🛠️ Teknologi yang Digunakan
