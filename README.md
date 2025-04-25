@@ -33,10 +33,10 @@ Melalui aplikasi ini, pengguna dapat:
 ![Input Screenshot](https://github.com/hdrzk/Debugging-App/blob/main/FIRST%20PAGE.png?raw=true)
 
 ### 🖼️ Halaman Kedua
-![Input Screenshot](path/to/input_screenshot.png)
+![Input Screenshot](https://github.com/hdrzk/Debugging-App/blob/main/SECOND%20PAGE.png?raw=true)
 
 ### 🖥️ Tampilan Logcat
-![Logcat Screenshot](path/to/logcat_screenshot.png)
+![Logcat Screenshot](https://github.com/hdrzk/Debugging-App/blob/main/SECOND%20PAGE.png?raw=true)
 
 ---
 
