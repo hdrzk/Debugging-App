@@ -23,7 +23,7 @@ Melalui aplikasi ini, pengguna dapat:
 ## 🛠️ Teknologi yang Digunakan
 - **Kotlin**
 - **Android Studio**
-- **Minimum SDK**: Android 5.0 (API 21)
+- **Minimum SDK**: Android 7.0 (API 24)
 
 ---
 
@@ -36,13 +36,13 @@ Melalui aplikasi ini, pengguna dapat:
 ![Input Screenshot](https://github.com/hdrzk/Debugging-App/blob/main/SECOND%20PAGE.png?raw=true)
 
 ### 🖥️ Tampilan Logcat
-![Logcat Screenshot](https://github.com/hdrzk/Debugging-App/blob/main/SECOND%20PAGE.png?raw=true)
+![Logcat Screenshot](https://github.com/hdrzk/Debugging-App/blob/main/LOG.png?raw=true)
 
 ---
 
 ## 🔍 Contoh Output Logcat
 ```plaintext
-V/cekString: Halo
+V/check: Halo
 ```
 
 ---
