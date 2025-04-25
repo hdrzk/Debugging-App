@@ -30,7 +30,7 @@ Melalui aplikasi ini, pengguna dapat:
 ## 📸 Screenshot
 
 ### 🖼️ Halaman Pertama
-![Input Screenshot](FIRST PAGE.png)
+![Input Screenshot](https://github.com/hdrzk/Debugging-App/blob/main/FIRST%20PAGE.png?raw=true)
 
 ### 🖼️ Halaman Kedua
 ![Input Screenshot](path/to/input_screenshot.png)
