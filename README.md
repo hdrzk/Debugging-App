@@ -30,7 +30,7 @@ Melalui aplikasi ini, pengguna dapat:
 ## 📸 Screenshot
 
 ### 🖼️ Halaman Pertama
-![Input Screenshot](path/to/input_screenshot.png)
+![Input Screenshot](FIRST PAGE.png)
 
 ### 🖼️ Halaman Kedua
 ![Input Screenshot](path/to/input_screenshot.png)
